@@ -1,8 +1,8 @@
 
-# OOD Detection Evaluation Framework
+# The Invisible Gorilla Effect in Out-of-distribution Detection
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2602.20068"><img src="https://img.shields.io/badge/📄%20Paper-PDF-B31B1B?style=for-the-badge" alt="Paper"></a>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Anthony_The_Invisible_Gorilla_Effect_in_Out-of-distribution_Detection_CVPR_2026_paper.html"><img src="https://img.shields.io/badge/📄%20Paper-PDF-B31B1B?style=for-the-badge" alt="Paper"></a>
   <a href="https://www.harryanthony.org/docs/CVPR_conference_poster_Harry_Anthony_2026.pdf"><img src="https://img.shields.io/badge/📋%20Poster-PDF-1565C0?style=for-the-badge" alt="Poster"></a>
   <a href="https://www.youtube.com/watch?v=DkVL_twut9M"><img src="https://img.shields.io/badge/▶%20Presentation-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Presentation"></a>
   <a href="https://medium.com/@harry.anthony/the-invisible-gorilla-effect-a-hidden-bias-in-ai-safety-checks-f2acee2abfb8"><img src="https://img.shields.io/badge/✍%20Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium blog post"></a>
