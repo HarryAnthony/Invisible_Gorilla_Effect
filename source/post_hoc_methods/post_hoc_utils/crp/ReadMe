@@ -1,0 +1,33 @@
+This project makes use of code from the following open-source repositories:
+
+  zennit-crp: https://github.com/rachtibat/zennit-crp
+  zennit: https://github.com/chr5tphr/zennit
+
+We thank the authors for making their work publicly available.
+
+The bundled copy under `post_hoc_utils/crp/crp/` has been trimmed to the modules required by the PCX OOD
+detection method (`CondAttribution`, `ChannelConcept`, `get_layer_names`, and `MaskHook`). PCX also uses
+zennit from `post_hoc_utils/zennit/` for LRP composites (`EpsilonPlusFlat`, `SequentialMergeBatchNorm`).
+
+If you use this code, please cite as:
+
+@article{achtibat2023attribution,
+  title={From attribution maps to human-understandable explanations through Concept Relevance Propagation},
+  author={Achtibat, Reduan and Dreyer, Maximilian and Eisenbraun, Ilona and Bosse, Sebastian and Wiegand, Thomas and Samek, Wojciech and Lapuschkin, Sebastian},
+  journal={Nature Machine Intelligence},
+  volume={5},
+  number={9},
+  pages={1006--1019},
+  year={2023},
+  doi={10.1038/s42256-023-00711-8},
+  url={https://doi.org/10.1038/s42256-023-00711-8}
+}
+
+@article{anders2021software,
+  author  = {Anders, Christopher J. and Neumann, David and Samek, Wojciech and M{\"u}ller, Klaus-Robert and Lapuschkin, Sebastian},
+  title   = {Software for Dataset-wide XAI: From Local Explanations to Global Insights with {Zennit}, {CoRelAy}, and {ViRelAy}},
+  journal = {CoRR},
+  volume  = {abs/2106.13200},
+  year    = {2021},
+  url     = {https://arxiv.org/abs/2106.13200}
+}

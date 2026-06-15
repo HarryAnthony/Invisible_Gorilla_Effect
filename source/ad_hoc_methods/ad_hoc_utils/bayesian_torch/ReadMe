@@ -1,0 +1,18 @@
+This project makes use of code from the following open-source repository:
+
+  bayesian-torch: https://github.com/IntelLabs/bayesian-torch
+
+We thank the authors for making their work publicly available.
+
+If you use this code, please cite as:
+
+@software{krishnan2022bayesiantorch,
+  author       = {Ranganath Krishnan and Pi Esposito and Mahesh Subedar},               
+  title        = {Bayesian-Torch: Bayesian neural network layers for uncertainty estimation},
+  month        = jan,
+  year         = 2022,
+  doi          = {10.5281/zenodo.5908307},
+  url          = {https://doi.org/10.5281/zenodo.5908307}
+  howpublished = {\url{https://github.com/IntelLabs/bayesian-torch}}
+}
+

@@ -1,0 +1,26 @@
+../../data/ISIC_collection_processed/2017/test/ISIC_0012852.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0227038.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1001562.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6533754.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0384214.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7764481.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7901662.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5268669.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3801938.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8778158.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1852500.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5789052.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7050773.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0627369.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0612624.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0972869.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0069886.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0063435.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0063346.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0061124.jpg
+../../data/ISIC_collection_processed/MSK/MSK-1/ISIC_0011455.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_2593673.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_5426103.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_1931730.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_3238119.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_9334654.jpg

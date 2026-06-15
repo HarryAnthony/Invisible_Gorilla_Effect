@@ -1,0 +1,887 @@
+../../data/ISIC_collection_processed/2016/test/ISIC_0011384.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0011393.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0011385.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0011226.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0011159.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0010455.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0009962.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016029.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016034.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016035.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015011.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0014470.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0014454.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013216.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012448.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012447.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012425.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012199.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012215.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012323.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012258.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012387.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012388.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012136.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013946.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013772.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013684.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013364.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013370.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013217.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013208.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013236.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013177.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013178.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013173.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013140.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013134.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013124.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013059.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013034.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012814.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012390.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012377.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012433.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012406.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012245.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012103.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012173.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0012204.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8307974.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4520704.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0850253.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8381313.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5652434.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9766593.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2586269.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7384638.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4263017.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1450003.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2527238.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2598974.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9661686.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2623707.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7009118.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9626110.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4636434.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8129362.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5629390.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0839367.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8044983.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7661559.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3985104.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3456094.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4328501.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2648018.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8188175.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7487195.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8584531.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8795038.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4205013.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7279273.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5399828.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1686113.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3405862.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0818181.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8882364.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7592920.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8750055.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1106211.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2153879.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5176297.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2232461.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7264203.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0946485.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5014425.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9273715.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6348638.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5831205.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9596837.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8019487.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1591010.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1166446.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1103365.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1943439.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1088190.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0549791.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3318860.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9919255.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8509577.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9597139.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3111591.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0458561.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8137345.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8223110.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2902504.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6041385.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7351614.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5062795.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1071617.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0503937.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9076637.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5919621.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2753279.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0916205.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7603455.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2756237.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4341651.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5659872.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7744063.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7261379.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5065394.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9860255.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7634311.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5623138.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3174039.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8583441.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0749853.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2775779.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9848065.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7078944.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8400705.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9108366.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0470037.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2444391.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4338709.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2857760.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8514630.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2880255.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7155969.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2003288.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1332092.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2288288.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4750271.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9007375.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3977025.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6948176.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8073555.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5849266.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5330829.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6393624.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6989261.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2126277.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0520674.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1585410.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7544286.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4618923.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9803809.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6128404.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7264353.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0376071.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6677145.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0265494.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5685440.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7784603.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1206086.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2041690.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0223461.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4312375.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9377882.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4901785.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2939439.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5989969.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0222050.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5426068.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4699695.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8472933.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2687067.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6172309.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8694075.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2512593.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0605858.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8892662.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4817275.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5643047.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8611644.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5328915.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8509219.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6065363.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8899684.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7118325.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7510790.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5264073.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1253099.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9156630.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4384072.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3871225.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8495841.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6283716.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9487340.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5063476.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1933101.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6711611.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5406780.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2381635.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4535409.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3466430.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1615485.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2850215.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6939823.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5127003.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0126191.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5895384.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6179369.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6163789.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0702665.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2957465.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6883317.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2007396.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7218916.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3943279.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3148886.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4769243.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6532815.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8980141.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7154536.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2790519.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9787166.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7324950.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9256811.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1085658.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1426969.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3956421.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0084117.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5045552.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4281796.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7133618.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3630349.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9223727.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0632983.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1601635.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4196059.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4598375.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6073897.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2138419.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9660623.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8415868.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1003059.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8900920.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5571430.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2010209.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8319867.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2599541.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7706640.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7710386.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1214159.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2283509.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9744305.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0280376.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2877445.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6128367.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8502411.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9957272.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8062902.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8869929.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5733808.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4247737.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6012141.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0668612.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2444283.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2456538.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8994087.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8581475.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0104911.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6174918.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6889402.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7673152.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7108785.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2557960.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4143480.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7584363.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5934354.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9772863.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9283037.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8468455.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5814432.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5523865.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9069120.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3758049.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1359589.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5858111.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5971635.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6393048.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7460002.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4448486.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1411589.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6278558.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4292710.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4522439.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4106362.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2030042.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4942265.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5268446.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4524099.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8329541.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1957594.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7880127.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2451137.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7303073.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8197653.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8234773.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6433929.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8913309.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0188232.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5970162.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8152966.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7166827.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5449421.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1364900.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3690890.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5736971.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2365013.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6368918.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2056422.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2996240.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3166167.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1534969.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0473709.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5153848.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5716967.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2046445.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6343626.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3811339.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1926807.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8541813.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0322660.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7651745.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3642877.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1214018.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4492754.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2623420.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3341159.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0191276.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1479692.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3360646.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9611124.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4240225.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3458204.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0218137.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6890961.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3236918.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5208776.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7341225.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3626576.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5959935.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7508477.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3107586.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6473915.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1856063.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3848912.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9241446.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5256455.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9323064.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0140720.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5562836.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3182805.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2615058.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0472351.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5553918.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5918908.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9074326.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6920683.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4279516.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8826496.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4568425.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8135931.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4393640.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9380414.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0103730.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6946803.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4743199.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2290284.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3429725.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5810696.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1990155.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9819334.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0489982.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8200265.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7235128.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6134155.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6498094.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3180213.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6015221.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3160599.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2788756.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4480128.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8933698.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0224332.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6180140.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8291849.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1071783.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3877564.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3133338.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6790329.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4173993.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4177450.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7485852.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1429504.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4310717.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6212874.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0464707.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7362828.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7183651.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7408991.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9304776.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5857357.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0135990.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1365352.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7014017.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5359186.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7705774.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3182500.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6951477.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6821074.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4714276.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1797052.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4730582.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4813568.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6494787.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9537942.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6667219.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6384448.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7875640.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0428084.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6733658.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2283057.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8937746.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4439689.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3406437.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1176074.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9094343.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5123323.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3127691.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8877949.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5909161.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7109491.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1752997.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9384946.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7898061.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9437700.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1431969.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0511862.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7830960.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5350216.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8600962.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5076357.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2166645.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5038394.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1863725.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6516395.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3924603.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4633843.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0545679.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5544398.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8732565.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7980127.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0423655.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4330588.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6713972.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6744732.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4130156.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4560389.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7466175.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4990737.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9007400.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9130035.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1277350.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2361705.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6534578.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2750724.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6444362.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4720110.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3303974.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0517084.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8680647.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6364763.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5991850.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0760717.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0737161.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5743254.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6866262.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4506056.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1571132.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6113814.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8598119.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2783936.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5383422.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7078388.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7481964.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2436560.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4593872.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0081584.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4353888.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4738295.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7484771.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9535192.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7979899.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3064935.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4983958.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5909577.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6969292.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1789897.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7294776.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7917197.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4093917.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7410963.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5257528.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0307984.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7241668.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9531992.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0555938.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0592761.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3471297.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8568000.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6080966.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7031405.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0118792.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0709809.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3718172.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8582111.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0645477.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4407580.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5597363.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6046720.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3850265.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7383685.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7938135.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0353247.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6405019.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6288741.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5430595.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9766688.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8624049.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6098021.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6603948.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9438037.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4850313.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0567265.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3040722.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7126269.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4939763.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5847182.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3112053.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3711801.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1578885.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1884970.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1496469.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7143489.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1437062.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7803822.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3961887.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1585971.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1960009.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5843614.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7683429.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0992261.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6299036.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0401647.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4965308.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6303895.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2614015.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9543704.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5336791.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8427534.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1160972.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0690744.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2141209.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3493343.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9870600.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0468002.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6472700.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7765349.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6650334.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2430686.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5364599.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6949373.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4629662.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0035977.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0035703.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0036022.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0035206.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0034765.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0031524.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0032915.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0028087.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0029028.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0029348.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0030085.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0027125.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0026655.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0024344.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0025451.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0073116.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0067721.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0066820.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0066761.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0064091.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0064998.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0059562.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0059746.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0059092.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0059134.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0056942.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0055486.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_9211210.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_3130146.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0055258.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_3597597.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_0469469.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_2061233.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_8092226.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_4849988.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_2210618.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_6342903.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_2657529.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_2654001.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_7874486.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Longitudinal Images with Various Types for Lesion Viewer Testing/ISIC_0705204.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Longitudinal Images with Various Types for Lesion Viewer Testing/ISIC_5921373.jpg
+../../data/ISIC_collection_processed/MSK/MSK-1/ISIC_0015196.jpg
+../../data/ISIC_collection_processed/MSK/MSK-1/ISIC_0011783.jpg
+../../data/ISIC_collection_processed/MSK/MSK-1/ISIC_0011640.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0021903.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0011231.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010738.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012466.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012449.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012439.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012404.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012407.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012423.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012424.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012371.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012350.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012289.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012295.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012315.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012327.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012341.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012251.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012100.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012121.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012133.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014514.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014455.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013940.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013934.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013923.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013875.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013854.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013790.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013716.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013694.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013658.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013661.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013609.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013613.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013475.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013447.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013406.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013413.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013373.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013372.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013354.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013350.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013336.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013337.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013299.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013295.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013218.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013231.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013245.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013251.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013252.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013253.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013175.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013137.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013125.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013125.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013137.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013100.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013041.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013057.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012994.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012894.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012797.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012778.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012824.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012752.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2559263.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0743395.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1822966.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5809270.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7166430.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4708741.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9859873.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5901805.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4701313.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6721526.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6190427.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_5523572.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5905688.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5905688.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5386182.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7316506.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6900593.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1635827.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5926017.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6981855.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3992319.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7064613.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3563953.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6730858.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0178370.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3751908.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7559316.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0283070.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7549843.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4511704.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9918922.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7175690.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4485499.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5588496.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9565804.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4403481.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7299650.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1423737.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4974820.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0155910.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5638751.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9406755.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9262713.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6279341.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1406593.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2355721.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5649739.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6397087.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3139292.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4454075.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6616555.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4848011.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0390071.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9345697.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1406434.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5003606.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1940620.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9595615.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9229047.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7252283.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2789443.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6813281.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0991761.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8671159.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5753627.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5367687.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0968773.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3685033.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4799999.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8576765.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6285871.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2030748.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4201157.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2784325.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3477573.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0464270.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7988442.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8069559.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1418323.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7944238.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4449211.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8579352.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7170340.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1569258.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6009572.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7230249.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9179066.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9881690.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9733868.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6066990.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4731257.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8692144.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8233338.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2358324.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7486070.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8438639.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3594441.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8510848.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0665750.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2540746.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0098024.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6295235.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3640326.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8609084.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6473085.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7035975.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3162213.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7723219.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5651765.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7021797.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0901635.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1620821.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1652988.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7565477.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1693572.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8482289.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9876659.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5891587.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0555848.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4438999.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6958713.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3430886.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5493841.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4724569.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7044973.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3591834.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4190398.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0923581.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3875865.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9159477.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5564843.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7052280.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1136731.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2003991.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7622188.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5383985.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8176952.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1705827.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9071073.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4955345.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9128550.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3210973.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5012399.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4438786.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4534665.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3060145.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8761348.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4676341.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0345607.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7856735.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1118807.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8587544.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9606863.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8457787.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7081248.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5556327.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1699688.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7783047.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5475235.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1089722.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5015822.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8850421.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1019322.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0503442.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4619708.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9595194.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Repeated Dermoscopic Images of Melanocytic Lesions/ISIC_2243803.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8481515.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5140656.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1244418.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9320716.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0211399.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4581400.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Repeated Dermoscopic Images of Melanocytic Lesions/ISIC_6489162.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Repeated Dermoscopic Images of Melanocytic Lesions/ISIC_4214918.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Repeated Dermoscopic Images of Melanocytic Lesions/ISIC_2359370.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Repeated Dermoscopic Images of Melanocytic Lesions/ISIC_1772689.jpg
+../../data/ISIC_collection_processed/UDA/UDA-1/ISIC_0000472.jpg
+../../data/ISIC_collection_processed/UDA/UDA-1/ISIC_0000010.jpg

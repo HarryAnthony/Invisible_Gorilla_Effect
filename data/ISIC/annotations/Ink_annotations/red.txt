@@ -1,0 +1,25 @@
+../../data/ISIC_collection_processed/2016/train/ISIC_0010445.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6089318.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8070074.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6475034.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6638869.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0035487.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0032258.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0032379.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0054724.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0021528.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012441.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013785.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_4221304.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_4027194.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_7927389.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_9051948.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6967412.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6577694.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_1873909.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6577694.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_3597439.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_1724126.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_9208445.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_3405752.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_1126871.jpg

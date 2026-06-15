@@ -1,0 +1,1558 @@
+../../data/ISIC_collection_processed/2016/test/ISIC_0010574.jpg
+../../data/ISIC_collection_processed/2016/test/ISIC_0010456.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0010497.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0010496.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0010341.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0010170.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0010087.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0010086.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0000326.jpg
+../../data/ISIC_collection_processed/2016/train/ISIC_0000010.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016044.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016043.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016041.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016038.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016027.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016019.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016018.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016014.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016011.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016006.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0016005.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015991.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015990.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015989.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015988.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015987.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015969.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015966.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015963.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015962.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015961.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015958.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015956.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015953.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015947.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015946.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015944.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015943.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015942.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015939.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015938.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0015937.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0014546.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0014503.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0014489.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0014027.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0014006.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013998.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013977.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013948.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013911.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013908.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013897.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013794.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013739.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013678.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013673.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013636.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013600.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013588.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013565.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013529.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013512.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013511.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013465.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013457.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013455.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013414.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013411.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013399.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013393.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013321.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013291.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013281.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013271.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013242.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013230.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013203.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013191.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013164.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013159.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013085.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0013070.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012967.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012904.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012903.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012848.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012705.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012432.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012428.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012414.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012372.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012364.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012266.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012248.jpg
+../../data/ISIC_collection_processed/2017/test/ISIC_0012095.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0014547.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0014518.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0014361.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0014328.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0014032.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0014028.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013997.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013995.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013983.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013982.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013981.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013980.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013971.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013970.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013965.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013962.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013961.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013958.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013933.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013929.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013927.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013918.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013910.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013890.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013888.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013879.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013864.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013845.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013840.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013839.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013835.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013815.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013807.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013805.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013804.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013802.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013800.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013799.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013798.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013797.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013796.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013795.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013782.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013777.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013762.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013742.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013740.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013721.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013691.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013690.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013689.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013682.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013680.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013656.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013643.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013635.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013606.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013601.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013599.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013597.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013595.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013592.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013580.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013568.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013567.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013554.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013553.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013552.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013526.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013525.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013523.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013494.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013493.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013490.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013474.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013458.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013456.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013438.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013429.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013425.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013424.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013423.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013410.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013409.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013400.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013398.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013397.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013378.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013356.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013355.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013342.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013330.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013329.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013326.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013304.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013268.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013258.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013249.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013238.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013223.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013207.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013205.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013198.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013197.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013196.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013192.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013187.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013181.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013174.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013172.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013163.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013155.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013129.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013121.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013106.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013097.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013096.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013092.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013075.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013071.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013056.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013054.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013040.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013027.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013026.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013025.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013015.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0013014.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012988.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012969.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012952.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012932.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012907.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012905.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012889.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012878.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012877.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012865.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012854.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012835.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012833.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012828.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012813.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012810.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012806.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012800.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012789.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012788.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012777.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012773.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012742.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012739.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012725.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012713.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012711.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012704.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012702.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012696.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012692.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012690.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012681.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012406.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012678.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012677.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012676.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012674.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012673.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012672.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012669.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012663.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012662.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012657.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012460.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012453.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012397.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012363.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012342.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012338.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012329.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012281.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012274.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012263.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012261.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012250.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012246.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012238.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012230.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012213.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012212.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012164.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012150.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012135.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012102.jpg
+../../data/ISIC_collection_processed/2017/train/ISIC_0012094.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013945.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013863.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013828.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013651.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013561.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013527.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013501.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013491.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013215.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013188.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013127.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0013082.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0012876.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0012746.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0012400.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0012380.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0012335.jpg
+../../data/ISIC_collection_processed/2017/validation/ISIC_0012306.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0036231.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0036185.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0016039.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0016020.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0015977.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0015970.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0012925.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0012624.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0012418.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0012373.jpg
+../../data/ISIC_collection_processed/2018/test (task 1-2)/ISIC_0012337.jpg
+../../data/ISIC_collection_processed/2018/validation (task 1-2)/ISIC_0012346.jpg
+../../data/ISIC_collection_processed/2018/validation (task 1-2)/ISIC_0012255.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7400392.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6269166.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2855191.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9437211.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5812931.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9925445.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0261499.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3388468.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1802797.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4323070.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1449910.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1528994.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2252930.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4967586.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2646893.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9821826.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3585737.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6446753.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9635270.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1363719.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6014146.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3397963.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3088518.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0343061.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4909462.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5910685.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7358293.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4354896.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8054626.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9164054.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3399306.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2871230.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0351666.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4851437.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2145640.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2525675.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2032658.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6832164.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5824220.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0280912.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2637608.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9698498.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6285376.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2409103.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5348582.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2726665.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2246150.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4019724.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4404772.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8780369.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8828670.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1714941.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6945634.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1315068.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1802502.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7822725.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0298274.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3097354.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2446492.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3001941.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0683986.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1358441.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2960377.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3575926.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2153401.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5374076.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9685931.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3614838.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1027856.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4555291.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2776906.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4452228.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3548927.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5667461.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0286360.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1785095.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8483382.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9038318.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6694724.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2661646.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8593130.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2697910.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2975580.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3981425.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1048895.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6794899.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8766132.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4090965.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0361529.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9274260.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8022913.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7616324.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4267177.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8098274.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2341875.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3587744.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5491443.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3391427.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5809221.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2134704.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7433711.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9514450.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1836410.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2646829.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0528044.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9898447.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8600809.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1758397.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5719183.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3451688.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9704624.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7626256.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2937642.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8478787.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9794538.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4933735.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0362190.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4817771.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3745711.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8562717.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8965323.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5521974.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8011058.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4443545.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8260942.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7847294.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9695501.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1050158.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9593940.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4968536.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7843804.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5714260.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2458074.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6416533.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1492455.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7076773.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2205007.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7670737.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5278307.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6615566.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2114564.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7073459.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5821131.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3010681.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4967564.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0830876.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1732527.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5970460.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4803414.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1253227.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8285361.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8871092.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1065699.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7372719.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8878967.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8051791.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3602666.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3280940.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2324972.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4045248.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0689091.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6511141.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6060741.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4683861.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6574497.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0884463.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4132000.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4642190.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1731411.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7216585.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1950569.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6876691.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6319225.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4569321.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8501248.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8312576.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3610783.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6588801.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3047981.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0539038.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0754586.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0749089.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9736710.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5681025.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1838904.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3105314.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6383486.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1531548.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5399828.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7279273.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4205013.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8795038.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1306050.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8574407.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9716059.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7292853.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7658431.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9712522.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5712974.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2006074.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6735519.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8736590.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6122044.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1490986.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5985323.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4656565.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2242628.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7335835.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7607829.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6595224.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0853325.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0971027.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6552115.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3686800.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0094755.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4891233.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6701544.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7343567.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3550844.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9839867.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8001516.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8707625.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9727219.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1290920.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2309744.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2012388.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7001063.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9975949.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8892018.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1739742.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9482039.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7050328.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6576368.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1655590.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2338297.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0173213.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5825006.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5657310.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5874970.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3477336.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6187353.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3676029.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0356904.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1965344.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5987590.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7255551.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6270484.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2387770.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2641026.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9697899.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5616902.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7617861.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6329214.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0281631.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5809781.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1477534.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0696556.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9783959.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4120174.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1514642.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2841861.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7964735.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6154719.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0394664.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5763413.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7046888.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6552884.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7987416.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3168448.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5722465.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5484426.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3409169.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3366683.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4691314.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9091562.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5573611.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2741716.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0674662.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6041185.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5194340.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4380623.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3644314.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2901680.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2086525.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3199719.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6562435.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1225078.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6434344.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7772009.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8570665.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5336451.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6239783.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5739829.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8373218.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3252522.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6725828.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0932862.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2053045.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9117335.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9824799.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4342416.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8194835.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7222438.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1503257.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7701890.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7296462.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0290881.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4189633.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4021645.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9451910.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7982020.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4751140.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7824420.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5105824.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4211990.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5131138.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8734128.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8390111.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7749589.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6153913.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5369000.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1000328.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9148510.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1176099.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1772759.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7861450.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9105247.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9457506.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2143352.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8846695.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4639874.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7319356.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3902917.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8172419.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1414247.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2234794.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3769211.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0882619.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6444653.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7325881.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4345168.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8904448.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1894782.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5118254.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7743124.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1300891.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0164329.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8246244.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1536126.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7477593.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5707738.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7108282.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9891119.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8988525.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0075663.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1404148.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4620906.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5988729.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6712494.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7461124.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4429406.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0273664.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3303961.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0342557.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5304633.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8608062.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5907909.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1396276.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2553652.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4128342.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8287528.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8429099.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3966717.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2374446.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8096536.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6293244.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1631649.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3310849.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8357133.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8231704.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0420477.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5457826.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6248789.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5478846.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5298608.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0953133.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9581761.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5611529.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3332756.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9842000.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1130830.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7220701.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5666345.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3875647.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8772062.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1328804.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7410175.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2934679.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0430904.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0523247.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1017159.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8180937.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3636011.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9141038.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2949131.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6817405.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7681593.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7690107.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2222091.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7489072.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8131464.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7818740.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8054710.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7452348.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4581058.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9105258.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1770995.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5505507.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2750230.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6786198.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1832586.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5192265.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_4377245.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2195070.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5644673.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5818405.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6129538.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2798100.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7365615.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3262171.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1660279.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0625629.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2829107.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0826998.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6335490.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7334758.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9492000.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0760601.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3338629.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8363485.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5408436.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6719226.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8395542.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3485981.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5920680.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6501973.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8079008.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6607939.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5993863.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1412976.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_5695185.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6600150.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8709698.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3402327.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7358998.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_8847503.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0624783.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_3832462.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_1008321.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2211136.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_7035517.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0493653.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_9211989.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0344052.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_6814478.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_2199969.jpg
+../../data/ISIC_collection_processed/2020/train/ISIC_0192893.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0597218.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5789867.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5601104.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3673376.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6844482.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2721975.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2576220.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5678867.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7528364.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7797655.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5274586.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9060583.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3763984.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8790255.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8842001.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7476070.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3363819.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4738071.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6327722.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2563568.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3632567.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5689175.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7981712.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9862922.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4923819.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4780727.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5420096.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6379594.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2785362.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7196573.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1832538.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3331737.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0112457.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5208168.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4212284.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3227202.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5930265.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7110531.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9771533.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2631616.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3206883.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4842908.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6604109.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2108849.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9210086.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7899041.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7883190.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6867242.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4687340.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9428465.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4019372.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2116449.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7384432.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9641799.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3444126.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6780662.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8464434.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8255784.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7191988.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0669355.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8288855.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6041443.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6457212.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2277806.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7109857.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6644377.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7156962.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2991354.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4753959.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8888094.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3401800.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3579423.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3557527.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8535481.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8144369.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8827801.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6353793.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9104229.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7232445.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2986485.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5324644.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3045939.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3094758.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8436194.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6240570.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3860402.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_5755245.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9699426.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0602893.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1966992.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9357335.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_7273804.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6999149.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_0890978.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1406759.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8784635.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_1805743.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6394319.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_4576334.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3909215.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_6796858.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_9380014.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_8868892.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_3347291.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Consecutive biopsies for melanoma across year 2020/ISIC_2354921.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0036036.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0035457.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0035101.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0035041.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0035005.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0034953.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0034694.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0034635.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0034621.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0034588.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0034571.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0034522.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0033673.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0033221.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0031450.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0031263.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0031048.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0031039.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0030940.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0030787.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0030608.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0030589.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0030445.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0030426.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0030263.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0030091.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0030006.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0029360.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0028602.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0027984.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0027734.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0027514.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0027432.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0027294.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0027250.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0026957.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0026822.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0026722.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0026277.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0026034.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0025978.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0025836.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0025564.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0025409.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0025309.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0024907.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0024515.jpg
+../../data/ISIC_collection_processed/HAM10000/ISIC_0024314.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0071523.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0071072.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0070963.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0070735.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0070728.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0070587.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0070395.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0070299.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0070286.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0068724.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0068706.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0068367.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0067766.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0067469.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0067376.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0067291.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0066639.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0066453.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0065528.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0065339.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0065277.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0061700.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0061440.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0060243.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0060198.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0059950.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0059639.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0059362.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0059231.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0059044.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0059012.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0058905.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0058645.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0058262.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0058151.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0058049.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0057636.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0057589.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0057058.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0056689.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0055938.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0055858.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0055534.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0055428.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0055362.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0055102.jpg
+../../data/ISIC_collection_processed/BCN20000/ISIC_0054965.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_8150058.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_1816574.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_5502098.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_7899998.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_0749272.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_5058915.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_1293502.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_6546922.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_3823228.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_2414214.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_1595622.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_7824315.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_9999251.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_7346353.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_2287405.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_7771190.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_0641560.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_7087262.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_5649585.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_6760120.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_5944090.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_5258479.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_9951833.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_9292767.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_0375301.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_0604869.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_8989457.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_9105532.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_0988073.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_0647139.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_4565303.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_1632850.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_0181785.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_5131286.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_6846478.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_9681659.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_0499306.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_4521912.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_8837942.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_2801460.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_4259027.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_1321984.jpg
+../../data/ISIC_collection_processed/smaller_datasets/HIBA Skin Lesions/ISIC_8229835.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0024170.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0020967.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0020966.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0012602.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0011394.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0011308.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0011232.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0011006.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010975.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010957.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010929.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010894.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010822.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010685.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010545.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010300.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010161.jpg
+../../data/ISIC_collection_processed/MSK/MSK-2/ISIC_0010152.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012497.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012470.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012458.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012457.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012444.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012430.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012429.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012426.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012412.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012411.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012410.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012409.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012408.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012403.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012393.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012392.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012389.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012385.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012370.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012368.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012361.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012349.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012336.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012331.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012319.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012279.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012275.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012252.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012244.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012229.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012202.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012200.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012192.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012145.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012144.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012119.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012104.jpg
+../../data/ISIC_collection_processed/MSK/MSK-3/ISIC_0012098.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014565.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014555.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014551.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014540.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014524.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014508.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014499.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014442.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014439.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014400.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014399.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014389.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014388.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014387.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014373.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014323.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014305.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014304.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014224.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014223.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014182.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014145.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014142.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014070.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014058.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014054.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014052.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014051.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014050.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014035.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014018.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014016.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014007.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0014005.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013994.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013979.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013978.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013976.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013973.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013968.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013964.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013963.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013957.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013955.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013952.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013949.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013944.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013943.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013941.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013930.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013928.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013919.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013915.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013914.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013913.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013909.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013907.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013906.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013905.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013904.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013901.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013900.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013889.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013887.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013882.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013870.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013869.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013846.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013829.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013822.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013812.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013811.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013791.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013787.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013780.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013779.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013776.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013774.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013763.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013761.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013757.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013756.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013754.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013753.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013752.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013751.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013750.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013745.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013743.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013741.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013722.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013718.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013717.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013715.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013714.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013699.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013698.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013697.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013693.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013692.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013683.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013677.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013669.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013666.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013655.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013654.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013649.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013648.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013633.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013630.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013629.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013628.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013604.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013598.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013590.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013589.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013587.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013586.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013569.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013563.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013556.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013555.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013551.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013550.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013548.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013547.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013546.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013545.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013544.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013543.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013542.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013541.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013540.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013539.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013538.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013537.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013536.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013533.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013532.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013531.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013528.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013524.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013514.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013513.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013510.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013485.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013484.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013469.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013466.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013464.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013454.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013453.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013452.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013446.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013442.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013441.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013439.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013426.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013422.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013419.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013418.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013412.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013408.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013407.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013379.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013376.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013367.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013366.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013363.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013362.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013353.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013344.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013332.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013328.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013309.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013308.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013307.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013303.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013301.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013296.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013290.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013285.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013283.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013280.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013278.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013276.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013272.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013265.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013259.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013239.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013237.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013214.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013211.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013210.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013209.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013206.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013195.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013194.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013186.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013183.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013179.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013158.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013145.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013139.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013138.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013117.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013115.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013111.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013110.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013107.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013102.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013101.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013077.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013076.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013074.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013066.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013064.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013061.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013058.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013051.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013029.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013022.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013013.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013004.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013003.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0013002.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012979.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012975.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012972.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012971.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012960.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012958.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012954.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012951.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012937.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012923.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012913.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012912.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012906.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012896.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012895.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012885.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012882.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012881.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012870.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012866.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012863.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012862.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012861.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012860.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012847.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012846.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012834.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012832.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012831.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012830.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012829.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012808.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012807.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012802.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012801.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012796.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012795.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012794.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012791.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012784.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012783.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012782.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012774.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012769.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012767.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012765.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012759.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012753.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012751.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012748.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012736.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012734.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012733.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_4027194.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012732.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012731.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012724.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012723.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012718.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012716.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012703.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012695.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012694.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012691.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012689.jpg
+../../data/ISIC_collection_processed/MSK/MSK-4/ISIC_0012688.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6275817.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_5561187.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_2593104.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_9928278.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_2772824.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_7594243.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_8690492.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_1871813.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_3138977.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_1317150.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_8271856.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_8368342.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_4127882.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_3041861.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_3957649.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_3821765.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_8493136.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_0874555.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_0467368.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_8348262.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_9942350.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_3689252.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_0616448.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_0274411.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_9598230.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_0587728.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_5112138.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_4883295.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_9323742.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6577436.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6965881.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6697767.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_5412404.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_7887338.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_7880424.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_0424077.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6043221.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_4424751.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6334193.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_5588785.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6578433.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_0920647.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_8184620.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_9176427.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_3087803.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_8044954.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_7506827.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_9320992.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_6586433.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_1061502.jpg
+../../data/ISIC_collection_processed/smaller_datasets/Melanoma and Nevus Dermoscopy Images with Confirmed Histopathological Diagnosis/ISIC_9235204.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0900188.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6165660.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8645184.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1300267.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5855767.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5484708.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9038840.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8622942.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2304572.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3339372.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0465400.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4470346.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5261089.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0282371.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0235696.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9111281.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7680185.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6865666.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2194390.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9430639.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0475038.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1540369.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2530060.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5438964.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1736524.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5206639.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4534593.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7466734.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2948772.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0614911.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7486585.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4515981.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8644015.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8082800.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3654052.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6453546.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5358568.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5841709.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9631113.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1204654.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7976038.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8727700.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4487501.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9812976.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3410585.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2454870.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6369740.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7482924.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9382025.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4465911.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3561464.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9829086.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3305055.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5943091.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9334835.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1780008.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8460948.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6620748.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9705935.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0686366.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0806140.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2757332.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4438982.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8071637.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4854995.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6059858.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3157754.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6135643.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2144549.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6823020.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4522789.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3468952.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8633461.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8003201.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3883666.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7275519.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4891461.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0820400.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9569039.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7779155.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2976456.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3962368.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1403411.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6808448.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9799448.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9201946.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8088770.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4473151.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7576198.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9603587.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5212679.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6634325.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6751710.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4852295.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0310853.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1789103.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2140551.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1581537.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8760203.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_0639571.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4491903.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_1791886.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7149190.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2398564.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2005634.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_9779834.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5577211.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4595996.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_8662803.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5991710.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3987802.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3868516.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_4850167.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5133582.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2712615.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7277494.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_6767333.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7581139.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3640764.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5531260.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_7859727.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5241686.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2382511.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5108776.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_2645357.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5336115.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_5548532.jpg
+../../data/ISIC_collection_processed/PROVe-AI/ISIC_3596982.jpg

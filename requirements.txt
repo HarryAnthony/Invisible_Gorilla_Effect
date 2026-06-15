@@ -1,0 +1,51 @@
+# =============================================================================
+# OOD Detection Evaluation Framework — Python dependencies
+# =============================================================================
+#
+# Experiments were run with:
+#   PyTorch 2.6.0, CUDA 12.4, cuDNN 9.1.0
+#
+# Install PyTorch + torchvision FIRST (CUDA 12.4 wheels), then the rest:
+#
+#   pip install torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu124
+#   pip install -r requirements.txt
+#
+# cuDNN is provided by the NVIDIA driver / PyTorch CUDA runtime bundle; you do
+# not install cuDNN separately via pip for typical GPU setups.
+# =============================================================================
+
+# --- Core (training + most OOD evaluation) ---
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+Pillow
+libauc
+
+# --- Always imported when building optimiser / criterion (training_utils) ---
+# (loaded even if you only use CrossEntropyLoss + SGD)
+
+# --- Data loading & splits ---
+iterative-stratification  # import: iterstrat
+
+# --- External / generative methods ---
+einops
+imageio
+
+# --- Synthetic OOD artefacts (make_synthetic_artefacts.py, evaluate with --ood_type synthetic) ---
+scikit-image
+
+# --- Progress bars (CRP submodule; harmless to install globally) ---
+tqdm
+
+# =============================================================================
+# Optional extras (install only if you use the related code path)
+# =============================================================================
+
+# PCX method + bundled CRP utilities (see README — zennit submodule may be missing)
+# zennit<=0.4.6
+# click
+
+# Experiment logging (--wandb_args); not imported unless wired in training_dict
+# wandb
